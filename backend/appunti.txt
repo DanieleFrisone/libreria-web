@@ -1,0 +1,1 @@
+'mongodb+srv://p1pp01491:u2HCWNpTkDftQF92@mern.oxnqd.mongodb.net/?retryWrites=true&w=majority&appName=mern'
